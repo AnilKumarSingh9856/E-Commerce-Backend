@@ -1,10 +1,10 @@
 # Django Ecommerce  by using Django-Rest-Framework
-  *Company*: CODTECH IT SOLUTIONS
-  *NAME*: ANIL KUMAR SINGH
-  *INTERN ID*: CT06DA413
-  *DOMAIN*: BACK END DEVELOPMENT
-  *DURATION*: 6 WEEKS
-  *MENTOR*: NEELA SANTOSH
+  # *Company*: CODTECH IT SOLUTIONS
+  # *NAME*: ANIL KUMAR SINGH
+  # *INTERN ID*: CT06DA413
+  # *DOMAIN*: BACK END DEVELOPMENT
+  # *DURATION*: 6 WEEKS
+  # *MENTOR*: NEELA SANTOSH
 
 
 An E-commerce API built using Django Rest Framework.
